@@ -1,6 +1,6 @@
 # Artichoke's Mods
 
-## loaders/tools
+## API/tools
 
 - Fabric
 - MultiMC
