@@ -40,6 +40,7 @@
 - **Autoclicker** - Tick-based autoclicker (for farming) - <https://www.curseforge.com/minecraft/mc-mods/auto-clicker-fabric>
 - **Replaymod** - Recording and editing - <https://www.replaymod.com/>
 - **Iris** - Optifine-compatible shaders mod - <https://irisshaders.dev/>
+- **LambDynamicLights** - Dynamic lights - <https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights>
 
 ## Fun
 
