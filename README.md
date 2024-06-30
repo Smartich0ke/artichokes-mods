@@ -11,7 +11,7 @@
 - **Lithium** - Better game performance - <https://modrinth.com/mod/lithium>
 - **Krypton** - Optimises network stack - <https://modrinth.com/mod/krypton>
 - **FerriteCore** - Reduces RAM usage - <https://modrinth.com/mod/ferrite-core>
-- **Indium** - API for Sodium - <https://www.curseforge.com/minecraft/mc-mods/indium>
+- **Indium** - API for Sodium - <https://modrinth.com/mod/indium>
 - **Better Beds** - Optimises bed rendering - <https://modrinth.com/mod/better-beds/versions>
 - **Sodium Extra** - Adds more features to Sodium - <https://modrinth.com/mod/sodium-extra>
 - **ImmediatelyFast** - Optimises GUI and text - <https://modrinth.com/mod/immediatelyfast>
