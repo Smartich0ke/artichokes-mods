@@ -9,7 +9,7 @@
 
 - **Sodium** - Rendering optimisation - <https://modrinth.com/mod/sodium>
 - **Lithium** - Better game performance - <https://modrinth.com/mod/lithium>
-- **Krypton** - Optimises network stack - <https://www.curseforge.com/minecraft/mc-mods/krypton>
+- **Krypton** - Optimises network stack - <https://modrinth.com/mod/krypton>
 - **FerriteCore** - Reduces RAM usage - <https://modrinth.com/mod/ferrite-core>
 - **Indium** - API for Sodium - <https://www.curseforge.com/minecraft/mc-mods/indium>
 - **Better Beds** - Optimises bed rendering - <https://modrinth.com/mod/better-beds/versions>
@@ -52,7 +52,7 @@
 
 ## Dependencies/libraries
 
-- **Fabric API** - <https://www.curseforge.com/minecraft/mc-mods/fabric-api>
+- **Fabric API** - <https://modrinth.com/mod/fabric-api>
 - **CreativeCore** - Dependency for AmbientSounds - <https://www.curseforge.com/minecraft/mc-mods/creativecore>
 - **Malilib** - Dependency for MiniHUD and Litematica - <https://www.curseforge.com/minecraft/mc-mods/malilib>
 
